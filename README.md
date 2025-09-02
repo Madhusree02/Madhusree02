@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Madhusree
-- 👀 I’m interested in UI/UX design
+- 👀 I’m interested in data analytics
 - 🌱 I’m currently learning Bachelor degree in artificial intelligence and data science
 - 💞️ I’m looking to collaborate on Designing
 - 📫 How to reach me through my mail id: madhusreejegan02@gmail.com
